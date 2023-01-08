@@ -1,0 +1,141 @@
+.profile{
+    height: 120px;
+    width: 1300px;
+    background-color: rgb(247, 247, 247);
+}
+.form{
+    height: 625px;
+    width: 1300px;
+    background-color: rgb(105, 105, 105);
+}
+.form_btn{
+   margin-left: 620px;
+}
+.first_name{
+    margin-left: 50px;
+}
+.first_name>input{
+     height: 40px;
+     width: 500px;
+     border-radius: 9px;
+     padding-left: 10px;
+     margin-top: 10px;
+}
+.last_name{
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+.last_name>input{
+    height: 40px;
+    width: 500px;
+    border-radius: 9px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.age{
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+.age>input{
+    height: 40px;
+    width: 500px;
+    border-radius: 9px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.gander{
+     margin-left: 50px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+}
+.gander_input{
+   margin-right: 10px;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+.form_1{
+display: flex;
+}
+.position{
+    margin-left: 150px;
+    
+}
+.position>input{
+    height: 40px;
+    width: 500px;
+    border-radius: 9px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.email{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.email>input{
+    height: 40px;
+    width: 500px;
+    border-radius: 9px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.phone_number{
+        margin-left: 150px;
+        margin-top: 20px;
+    
+        }
+.phone_number>input{
+    height: 40px;
+    width: 500px;
+    border-radius: 9px;
+    padding-left: 10px;
+    margin-top: 10px;
+}        
+.image>img{
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+.section{
+    font-size: 17px;
+    color: rgb(10, 10, 10);
+    margin-left: 150px;
+    margin-top: 20px;
+    
+}
+.input_btn{
+    margin-top: 10px;
+    margin-left: 120px;
+}
+.save_btn{
+    height: 40px;
+    width: 520px;
+    background-color: rgb(21, 146, 212);
+    border: none;
+    margin-top: 10px;
+    margin-left: 140px;
+}
+.images{
+    display: flex;
+}
+.frist_name1{
+    margin-top: 10px;
+    
+    display: flex;
+}
+.frist_name2{
+    margin-left: 10px;
+}
+.age1{
+    margin-left: 80px;
+    font-size: 20px;
+}
+.position1{
+    margin-left: 50px;
+    font-size: 25px;
+}
